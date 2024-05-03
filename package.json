@@ -7,8 +7,10 @@
     "dev": "nodemon ./src/cli.ts",
     "start": "node ./dist/cli.js"
   },
-  "keywords": [],
-  "author": "",
+  "author": {
+    "name": "Iagon Tech",
+    "email": "theninetiestech@iagon.com"
+  },
   "license": "MIT",
   "description": "",
   "dependencies": {
